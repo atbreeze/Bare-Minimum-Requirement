@@ -1,13 +1,13 @@
 package PreProject.demo;
 
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BareMinimumRequirementApplication {
+public class Section3Week1Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BareMinimumRequirementApplication.class, args);
+		SpringApplication.run(Section3Week1Application.class, args);
 	}
-
 }
