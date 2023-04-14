@@ -9,7 +9,7 @@ public class RecommendationsController {
 
     @GetMapping("/")
     public String helloWorld() {
-        return "!!";
+        return "Intitialize your dream!!!!";
     }
 
 }
